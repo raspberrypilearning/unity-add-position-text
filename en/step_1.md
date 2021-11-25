@@ -22,8 +22,3 @@ This example would position the centre of your text 120 pixels from the left and
 
 You can also add and position 'Button - TextMeshPro' objects in the same way. The text displayed on a button is child object of the Button. 
 
-You can also click '2D' at the top of the Scene view to see the text. Click on the Canvas containing your TextMeshPro in the hierarchy and use 'Shift-F' to focus on it. Click on your TextMeshPro in the Hierarchy and then drag the it into position in the Scene view. Click 2D again to return to 3D mode. 
-
-![2D Scene view of the Canvas and a text object.](images/canvas-screen-view.png){ max-width: 400px;}
-
-**Tip:** When positioning buttons in 2D view, make sure you have the Button selected, not just it's text child object.
