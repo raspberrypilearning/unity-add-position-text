@@ -1,10 +1,10 @@
-Fais un clic droit dans la fenêtre Hierarchy ou sur le GameObject dont tu veux que le texte soit un enfant, et va sur « UI » puis sélectionne « Text - TextMeshPro ».
+Right-click in the Hierarchy window, or on the GameObject that you want the text to be a child of, and go to **UI** then select **Text - TextMeshPro**.
 
-Cela crée un Canvas avec un objet TextMeshPro enfant, tu peux voir le texte dans la **vue Game**.
+This creates a Canvas with child TextMeshPro object; you can see the text in the Game view.
 
 ![Nouveau texte affiché dans la vue Game.](images/new-text.png)
 
-**Astuce :** tu peux voir la position du texte dans la vue Game même lorsque tu n'es pas en mode Play.
+**Tip:** You can view the position of the text in the Game view even when you are not in Play mode.
 
 C'est une bonne idée de renommer le texte pour pouvoir l'identifier plus tard. Fais un clic droit sur le nouveau GameObject TextMeshPro et sélectionne rename.
 
@@ -16,9 +16,9 @@ Sélectionne le GameObject TeshMeshPro pour régler ses paramètres dans l'Inspe
 
 ![Paramètres de TextMeshPro RectTransform dans l'Inspector.](images/reposition-text.png)
 
-Cet exemple positionnerait le centre de ton texte à 120 pixels de la gauche et à -50 pixels du haut, et l'ancrerait en haut à gauche.
+This example would position the centre of your text 120 pixels from the left and -50 pixels from the top, and anchor it to the top left.
 
 **Astuce :** ancrer le texte le fera apparaître dans la bonne position si tu redimensionnes ta vue Game.
 
-Tu peux également ajouter et positionner des objets « Button - TextMeshPro » de la même manière. Le texte affiché sur un bouton est un objet enfant du bouton. 
+Tu peux également ajouter et positionner des objets « Button - TextMeshPro » de la même manière. The text displayed on a button is a child object of the Button. 
 
