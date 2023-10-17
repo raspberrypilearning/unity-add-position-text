@@ -12,7 +12,7 @@ Change the text displayed by the TextMeshPro in the Inspector:
 
 ![TextMeshPro Inspector showing default New Text.](images/tmp-text.png)
 
-Select the TeshMeshPro GameObject to adjust its settings in the Inspector:
+Select the TextMeshPro GameObject to adjust its settings in the Inspector:
 
 ![TextMeshPro RectTransform settings in the Inspector.](images/reposition-text.png)
 
