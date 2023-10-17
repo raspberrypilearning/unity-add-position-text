@@ -12,7 +12,7 @@ Wijzig de tekst die wordt weergegeven door de TextMeshPro in de Inspector:
 
 ![TextMeshPro Inspector met standaard nieuwe tekst.](images/tmp-text.png)
 
-Select the TextMeshPro GameObject to adjust its settings in the Inspector:
+Selecteer het TextMeshPro GameObject om de instellingen aan te passen in de Inspector:
 
 ![TextMeshPro RectTransform-instellingen in de Inspector.](images/reposition-text.png)
 
